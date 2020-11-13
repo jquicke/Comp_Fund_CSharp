@@ -1,0 +1,8 @@
+here are two lines
+of text
+here is		another
+
+that last one was a blank line
+
+so was that one
+this is the last line
